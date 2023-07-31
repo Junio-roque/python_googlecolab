@@ -4,7 +4,7 @@
 </p>
 <p>
 1° Exercício <br>
-arquivo: <i>primeiroProz.py</i> 
+* arquivo: <i>primeiroProz.py</i> 
 <br>
 Desenvolva um código que utilize as seguintes características de um veículo:
 - Quantidade de rodas;
@@ -23,7 +23,7 @@ E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
 
 <p>
 2° Exercício <br>
-arquivo: <i>lacoDeRepetição.ipynb</i>
+* arquivo: <i>lacoDeRepetição.ipynb</i>
 <br>
 Precisamos imprimir um número para cada andar de um hotel de 20 andares. Porém, o dono do hotel é supersticioso e optou por não ter um 13ro andar.
 
