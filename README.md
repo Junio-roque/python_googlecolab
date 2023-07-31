@@ -1,8 +1,10 @@
-# python_googlecolab
-## Resolvendo exercicio em Python - ProzEducação
+<body>
+<p><h1 align="center">python_googlecolab</h1> 
+<h2 align="center">Resolvendo exercicio em Python - ProzEducação</h2>
+</p>
 <p>
 1° Exercício <br>
-arquivo: primeiroProz.py
+arquivo: <i>primeiroProz.py</i> 
 <br>
 Desenvolva um código que utilize as seguintes características de um veículo:
 - Quantidade de rodas;
@@ -21,7 +23,7 @@ E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
 
 <p>
 2° Exercício <br>
-arquivo: lacoDeRepetição.ipynb
+arquivo: <i>lacoDeRepetição.ipynb</i>
 <br>
 Precisamos imprimir um número para cada andar de um hotel de 20 andares. Porém, o dono do hotel é supersticioso e optou por não ter um 13ro andar.
 
@@ -31,3 +33,5 @@ Escreva mais dois códigos que resolvam o mesmo problema, mas dessa vez usando o
 Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
 </p>
 <p>Aprendendo laços de repetição com while, for e praticando em ordem crescente e decrescente.</p>
+
+</body>
