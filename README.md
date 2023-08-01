@@ -55,4 +55,3 @@ Caso seja inserido um número de operação que não exista, o resultado deverá
 </p>
 <hr>
 </body>
-Este é um {c:red}texto vermelho.{/c}
