@@ -26,7 +26,7 @@ E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
 <p>
 2° Exercício <br>
 * arquivo: <i>lacoDeRepetição.ipynb</i>
-<br>
+  
 Precisamos imprimir um número para cada andar de um hotel de 20 andares. Porém, o dono do hotel é supersticioso e optou por não ter um 13ro andar.
 
 Escreva um código que imprima todos os números exceto o número 13.
@@ -49,8 +49,10 @@ Considera a seguinte definição:
   2. Subtração
   3. Multiplicação
   4. Divisão
-  <br>
+<p>
 Caso seja inserido um número de operação que não exista, o resultado deverá ser 0.
+</p>
 </p>
 <hr>
 </body>
+Este é um {c:red}texto vermelho.{/c}
