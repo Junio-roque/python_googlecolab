@@ -2,6 +2,8 @@
 <p><h1 align="center">python_googlecolab</h1> 
 <h2 align="center">Resolvendo exercicio em Python - ProzEducação</h2>
 </p>
+<hr>
+<hr>
 <p>
 1° Exercício <br>
 * arquivo: <i>primeiroProz.py</i> 
@@ -20,7 +22,7 @@ E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
 </p>
 <p>Um desafio em python sobre utilizar if, elif, else com logica programação no modo conceitual.</p>
 <br>
-
+<hr>
 <p>
 2° Exercício <br>
 * arquivo: <i>lacoDeRepetição.ipynb</i>
@@ -33,8 +35,9 @@ Escreva mais dois códigos que resolvam o mesmo problema, mas dessa vez usando o
 Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
 </p>
 <p>Aprendendo laços de repetição com while, for e praticando em ordem crescente e decrescente.</p>
-
-<p>3° Exercício <br>
+<hr>
+<p>
+3° Exercício <br>
 * arquivo: <i>funcaoDef.ipynb</i>
 <br> 
 Faça uma função calculadora de dois números com três parâmetros: <br>
@@ -47,7 +50,7 @@ Considera a seguinte definição:
   3. Multiplicação
   4. Divisão
   <br>
-  
 Caso seja inserido um número de operação que não exista, o resultado deverá ser 0.
 </p>
+<hr>
 </body>
