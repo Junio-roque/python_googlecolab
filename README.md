@@ -34,4 +34,20 @@ Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
 </p>
 <p>Aprendendo laços de repetição com while, for e praticando em ordem crescente e decrescente.</p>
 
+<p>3° Exercício <br>
+* arquivo: <i>funcaoDef.ipynb</i>
+<br> 
+Faça uma função calculadora de dois números com três parâmetros: <br>
+- os dois primeiros serão os números da operação 
+- e o terceiro será a entrada que definirá a operação a ser executada. <br>
+
+Considera a seguinte definição:
+  1. Soma
+  2. Subtração
+  3. Multiplicação
+  4. Divisão
+  <br>
+  
+Caso seja inserido um número de operação que não exista, o resultado deverá ser 0.
+</p>
 </body>
