@@ -74,4 +74,17 @@ Após a seleção, o sistema deve pedir para o usuário inserir o primeiro e seg
 <br>
 É necessário que o sistema mostre as opções sempre que finalizar uma operação e mostrar o resultado.
 </p>
+<br>
+<p>
+# ProzEducão <br>
+<p>
+2° Exercício <br>
+* arquivo: <i>testandoErro.ipynb</i>
+</p>
+Faça um programa de 0 a 100 tratando os erros:<br>
+- Não pode ser menor que zero e não pode ser maior que 100.<br>
+- Tem que ser um numero inteiro.<br>
+- Mostra se o numero for divisivel por 2 e 3.<br>
+- Mostra se o numero e par.
+</p>
 </body>
