@@ -78,7 +78,7 @@ Após a seleção, o sistema deve pedir para o usuário inserir o primeiro e seg
 <p>
 # ProzEducão <br>
 <p>
-2° Exercício <br>
+5° Exercício <br>
 * arquivo: <i>testandoErro.ipynb</i>
 </p>
 Faça um programa de 0 a 100 tratando os erros:<br>
