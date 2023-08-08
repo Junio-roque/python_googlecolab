@@ -76,7 +76,7 @@ Após a seleção, o sistema deve pedir para o usuário inserir o primeiro e seg
 </p>
 <br>
 <p>
-# ProzEducão <br>
+<hr>
 <p>
 5° Exercício <br>
 * arquivo: <i>testandoErro.ipynb</i>
@@ -88,9 +88,10 @@ Faça um programa de 0 a 100 tratando os erros:<br>
 - Mostra se o numero e par.
 </p>
 <br>
+<hr>
 <p>
 6° Exercício <br>
-* arquivo: <anoEIdade.ipynb</i>
+* arquivo: <i>anoEIdade.ipynb</i>
 </p>
 <p>
 Desenvolva um programa que recebe do usuário nome completo e ano de nascimento que seja entre 1922 e 2021.<br>
